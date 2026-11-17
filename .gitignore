@@ -1,0 +1,4 @@
+automation/queue/*/*.json
+automation/logs/*
+__pycache__/
+.env

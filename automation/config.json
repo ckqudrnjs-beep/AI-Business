@@ -1,0 +1,11 @@
+{
+  "brand": "TBD-브랜드명",
+  "niche": "직장인을 위한 AI 업무 자동화 마이크로러닝",
+  "audience": "AI를 업무에 쓰고 싶지만 시작이 막막한 한국 직장인·프리랜서",
+  "price_krw_month": 9900,
+  "tone": "쉽고 실용적, 과장·수익보장 표현 금지",
+  "daily_posts": 2,
+  "channels": ["blog", "instagram", "newsletter"],
+  "llm_model": "claude-haiku-5-5",
+  "require_ai_disclosure": true
+}
